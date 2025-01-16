@@ -1,2 +1,2 @@
-# Portf-lio
-Um portfólio criado para contar um pouco sobre mim e minha trajetória.
+# Portifólio
+Este portfólio foi criado para compartilhar um pouco sobre minha história e trajetória profissional.
