@@ -22,6 +22,7 @@ Link: [Repositório em breve]<br>
 Descrição: Desenvolvimento de um site institucional para ampliar o alcance e a visibilidade da empresa, destacando seus serviços, valores e facilitando o contato com clientes e parceiros.
 Tecnologias utilizadas: HTML, CSS, JavaScript.<br> 
 Link: [Repositório em breve]
+<br>
 🌱 O que estou aprendendo agora
 Atualmente, estou expandindo meus conhecimentos em HTML, CSS, JavaScript e estudando ferramentas avançadas de desenvolvimento front-end. Além disso, tenho me dedicado a conceitos de cibersegurança, visando criar aplicações que sejam não apenas criativas, mas também seguras e robustas.
 
