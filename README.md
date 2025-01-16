@@ -36,3 +36,4 @@ E-mail: gabrielly.l.penasso@email.com
 Adoro compartilhar ideias e explorar novas oportunidades! 🚀
 
 ![tela](https://github.com/user-attachments/assets/d7a0e457-d8aa-446e-b600-a59bfe4cc9eb)
+Nevege aqui: file:///C:/Users/Usu%C3%A1rio/OneDrive/Documentos/Cotidiano/portifoliogaby/Portif%C3%B3lio.html
