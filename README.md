@@ -14,15 +14,18 @@ Aqui estão alguns dos projetos que desenvolvi com muita dedicação:
 Descrição: Sistema desenvolvido em Java que permite cadastrar livros, gerenciar empréstimos e devoluções, além de organizar informações de alunos e exemplares disponíveis.
 Tecnologias utilizadas: Java
 Link: [Repositório em breve]<br>
+
 🔧 Sistema de Gerenciamento de Alunos para Projeto Social
 Descrição: Uma plataforma feita para ajudar no cadastro de professores, alunos, controle de frequência e acompanhamento de faltas em um projeto social.
 Tecnologias utilizadas: PHP, HTML, CSS, WampServer
 Link: [Repositório em breve]<br>
+
 🔧 Site Interativo de uma Empresa de Concretos 
 Descrição: Desenvolvimento de um site institucional para ampliar o alcance e a visibilidade da empresa, destacando seus serviços, valores e facilitando o contato com clientes e parceiros.
 Tecnologias utilizadas: HTML, CSS, JavaScript.<br> 
 Link: [Repositório em breve]
 <br>
+
 🌱 O que estou aprendendo agora
 Atualmente, estou expandindo meus conhecimentos em HTML, CSS, JavaScript e estudando ferramentas avançadas de desenvolvimento front-end. Além disso, tenho me dedicado a conceitos de cibersegurança, visando criar aplicações que sejam não apenas criativas, mas também seguras e robustas.
 
